@@ -1,7 +1,7 @@
 {
    "name": "Yshdrm",
    "description": "Telegram Bot",
-   "repository": "https://github.com/Mahadev0008/Yshdrm",
+   "repository": "https://github.com/Sursa2929/Yshdrm",
    "logo": "https://telegra.ph/file/1f63de6e3ce65ef6b9f00.jpg",
    "image": "heroku/python",
    "env": {
